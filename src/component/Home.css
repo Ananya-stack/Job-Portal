@@ -1,0 +1,42 @@
+.inline{
+    width:100%;
+    height:auto;
+    /* background-color:black; */
+    display:flex;
+    text-align: center;
+}
+.home-content{
+    padding-top: 20px;
+    color: #284549;
+    font-weight: bold;
+}
+.company-part{
+    border-style: solid;
+    width: 41%;
+    height:102px;
+    position: relative;
+    background-color: #74959A;
+    border-color: #94B49F;
+    margin-left: 330px;
+    margin-top: 40px;
+    margin-right: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: bold;
+    padding-top: 33px;
+}
+
+.company-part2{
+    width: 41%;
+    height:102px;
+    margin-top: 40px;
+    border-style: solid;
+    background-color: #74959A;
+    border-color: #94B49F;
+    margin-right: 260px;
+    margin-left: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: bold;
+    padding-top: 33px;
+}

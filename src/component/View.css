@@ -1,0 +1,16 @@
+.card-content{
+    margin-left: 75px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.card-para{
+    color: rgb(2, 2, 29);
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn-view{
+    margin-top: 10px;
+}
+.search-input{
+    margin-top: 30px;
+}
